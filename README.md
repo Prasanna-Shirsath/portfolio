@@ -1,43 +1,37 @@
-# Jaya Sharma | Frontend & Shopify Developer
+# Prasanna Shirsath | Junior Software Engineer & Data Analytics Professional
 
-Personal portfolio for Jaya Sharma, Frontend & Shopify Developer based in Ahmedabad, Gujarat, India.
+Personal portfolio for Prasanna Shirsath, a Junior Software Engineer transitioning into Data Analytics and Data Science, based in Ahmedabad, Gujarat, India.
 
 ## Profile
 
-- 2+ years of professional frontend development experience
-- 20+ eCommerce storefronts contributed to
-- Current role: Frontend Developer at Atharva System
-- Experience with Shopify Liquid, JavaScript, HTML, CSS, SCSS, LESS, Tailwind CSS and responsive eCommerce development
+- ~2 years of experience as a Junior Software Engineer at Atharva System (July 2024 - Jan 2026)
+- Strong foundation in databases, SQL, and structured data modeling
+- Transitioning into Data Analytics and Data Science
+- Skilled in SQL queries, data retrieval, cleaning, and visualizations
 
-## Featured work
+## Experience
 
-- Suzie Kondi: custom Shopify theme development, 25% faster homepage
-- Velvet Tees: SEO health score improved by 40%
-- Irene Forte Skincare: reusable Liquid sections, 30% less development time
-- The Map Store: Splide.js sliders, AJAX Cart and storefront fixes
-- Live Tinted
-- BY JOHNNY
-- Eighth Day Skin
-- HATCH Collection
-- Viretta
-- AIVIQ
-- Jet Set Candy
-- Naked Cashmere
-- TopTier Attachments
-- Cambrook
+### Junior Software Engineer @ Atharva System
+*July 2024 – January 2026*
+- Built and maintained backend server-side logic using JavaScript, Liquid, PHP, and MySQL for e-commerce platforms.
+- Designed structured, queryable data models and wrote SQL/GraphQL queries for data retrieval, reporting, and analysis.
+- Optimized code performance and collaborated with cross-functional teams using Git for version control.
 
-## Education
+## Education & Certifications
 
-- MCA, Shri Chimanbhai Patel Post Graduate Institute of Computer Application, 2022–2024, CGPA 9.09
-- BCA, P D Pandya Institute of Computer Applications, 2019–2022, CGPA 7.80
+- **Certified Data Science Course** — Python, SQL, Power BI, Tableau, Machine Learning, Statistics (In Progress)
+- **B.E. in Computer Engineering** — GEC Modasa (2021 – 2024, 66.30%)
+- **Diploma in Computer Engineering** — Government Polytechnic Gandhinagar (2018 – 2021, 93%)
 
-## Tech
+## Technical Skills
 
-HTML5, CSS3, JavaScript ES6+, Tailwind CSS, SCSS, LESS, Bootstrap, Shopify Liquid, Shopify 2.0, React, Webflow, Wix, WordPress, BigCommerce, Git, GitHub, VS Code, Figma, Adobe Photoshop, MySQL and SQL.
+- **Data Analytics:** Python, SQL, MySQL, Power BI, Tableau, Machine Learning & Statistics essentials, Microsoft Excel, data interpretation and visualization
+- **Databases:** MySQL, relational data modeling, GraphQL queries & mutations
+- **Languages:** JavaScript, PHP, Java, Liquid, HTML/CSS, SQL
+- **Tools:** Git/GitHub, AI-assisted tools (ChatGPT, AI Studio, Antigravity)
 
 ## Contact
 
-Email: jayasharma5372@gmail.com
-
-Portfolio: https://jayasharma5372.github.io/portfolio/
-GitHub: https://github.com/jayasharma5372
+- **Email:** prasannashirsath88@gmail.com
+- **Phone:** +91-9725383328
+- **Location:** Ahmedabad, Gujarat, India
